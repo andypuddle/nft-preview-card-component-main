@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![images/screenshot.JPG](./screenshot.jpg)
+![](./images/screenshot.JPG)
 
 ### Links
-
-- Live Site URL: [https://andypuddle.github.io/nft-preview-card-component-main/](https://your-live-site-url.com)
+- Solution: [Frontend Mentor](https://www.frontendmentor.io/solutions/nftpreviewcardcomponentmain-rJ3aPXjmc)
+- Live Site URL: [github](https://andypuddle.github.io/nft-preview-card-component-main/)
 
 ### Built with
 
@@ -42,4 +42,4 @@ I this one i learnt how to add a hover effect over an image.
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/andypuddle](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@andypuddle](https://www.frontendmentor.io/profile/@andypuddle)
